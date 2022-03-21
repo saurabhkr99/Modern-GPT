@@ -38,7 +38,7 @@ const Navbar = () => {
             <p><a href="#blog">Library</a></p>
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
-            <p>Sign in</p>
+            <p>Sign In</p>
             <button type="button">Sign up</button>
           </div>
         </div>
